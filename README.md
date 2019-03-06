@@ -26,3 +26,4 @@ A basic chatbot (without ML :-) )
 
 
 <B>Using</B>-Firebase Authentication, Firebase Firestore and Firebase Notifications
+<B>Developers</B>-Adit Kalyani and Kaustubh Kekre (Team Phantom Orion)
